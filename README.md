@@ -15,3 +15,5 @@ Por ultimo al comenzar el dia cuando abrimos git debemos chequear con GIT PULL.
 Para crear una rama nueva debemos hacer GIT BRANCH nombre 
 
 Luego ingresar a la rama con GIT CHECKOUT nombre 
+
+Trabajando con zoom
