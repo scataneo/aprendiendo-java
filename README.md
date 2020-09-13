@@ -10,3 +10,5 @@
 
 #Paso 5 git push
 
+Por ultimo al comenzar el dia cuando abrimos git debemos chequear con GIT PULL.
+
