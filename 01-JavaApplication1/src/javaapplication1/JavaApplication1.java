@@ -9,12 +9,12 @@ public class JavaApplication1 {
       
       int num=1;
       
-      while(num<=100){
+         while(num<=100){
       
-      num=num+1
+          num=num+1
       
-       System.out.println(num);
-      }
+          System.out.println(num);
+         }
        
      }
      
