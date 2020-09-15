@@ -11,7 +11,7 @@ public class JavaApplication1 {
       
          while(num<=100){
       
-          num=num+1
+          num=num+1;
       
           System.out.println(num);
          }
