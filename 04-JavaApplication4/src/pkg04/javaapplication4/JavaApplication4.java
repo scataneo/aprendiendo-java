@@ -16,6 +16,17 @@ public class JavaApplication4 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
+        
+        
+        int numero;
+        
+      numero = 1;
+      
+      while(numero<=100){
+          numero = numero +1;
+         System.out.println( numero);
+      }
+          
+      
     
 }
