@@ -8,7 +8,7 @@ public class Problema3 {
 
     
     public static void main(String[] args) {
-        // importar scanner
+        // Importar scanner
         Scanner teclado=new Scanner(System.in);
         
         //Declarar dos variables
