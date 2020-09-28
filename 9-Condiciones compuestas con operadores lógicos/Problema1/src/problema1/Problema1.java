@@ -9,6 +9,8 @@ public class Problema1 {
     
     public static void main(String[] args) {
         
+        //Arranca el programa
+        
         Scanner teclado=new Scanner(System.in);
         
         int num1,num2,num3;
